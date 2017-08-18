@@ -6,7 +6,3 @@ http://preprod-virgintvgo.virginmedia.com/en/on-demand.html (title: On Demand)
 http://preprod-virgintvgo.virginmedia.com/en/my-videos.html (title: My Videos)
 http://preprod-virgintvgo.virginmedia.com/en/my-videos/continue-watching.html (title: Continue Watching)
 http://preprod-virgintvgo.virginmedia.com/en/my-videos/watchlist.html (title: Watch list)
-
-TV Assets:
-http://preprod-virgintvgo.virginmedia.com/en/watchtv.html/station/lgilabs-gb-vmlabd-master:a7847dba88765f416ee9ac93ef12eaaad70f743f700d46e32431f63c4f12170c/program/crid://virginmedia.com/content/SH024206600000/listing/crid:~~2F~~2Fvirginmedia.com~~2Fcontent~~2FEPSH024206600000-imi:71a8f8da33255c924dbd2de89192fb686e6f4f11fdc72464c584f278afadb768/location/65535 VMUK TV asset live                                  
-http://preprod-virgintvgo.virginmedia.com/en/watch-tv.html/station/lgilabs-gb-vmlabd-master:9d6891593b6dd14a0ac6ac4d9953bb502c35b8feffeb0beeb78cce9ac87651bb/program/crid://virginmedia.com/content/SH012687730000/listing/crid:~~2F~~2Fvirginmedia.com~~2Fcontent~~2FEP012687730288-imi:67e8d158f3df1e9e1c4c28ed901e2687c2f6872c7f74f1f2fd24c9e5522f2b84/location/65535 VMUK TV asset future   
