@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+Landing pages:
+http://preprod-virgintvgo.virginmedia.com/en (title: Home)
+http://preprod-virgintvgo.virginmedia.com/en/watch-tv.html (title: Now on TV)
+http://preprod-virgintvgo.virginmedia.com/en/tv-guide.html (title: TV Guide)
+http://preprod-virgintvgo.virginmedia.com/en/on-demand.html (title: On Demand) 
+http://preprod-virgintvgo.virginmedia.com/en/my-videos.html (title: My Videos)
+http://preprod-virgintvgo.virginmedia.com/en/my-videos/continue-watching.html (title: Continue Watching)
+http://preprod-virgintvgo.virginmedia.com/en/my-videos/watchlist.html (title: Watch list)
 
-You can use the [editor on GitHub](https://github.com/DzmitryZaitsau2/dzuluk/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DzmitryZaitsau2/dzuluk/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+TV Assets:
+http://preprod-virgintvgo.virginmedia.com/en/watchtv.html/station/lgilabs-gb-vmlabd-master:a7847dba88765f416ee9ac93ef12eaaad70f743f700d46e32431f63c4f12170c/program/crid://virginmedia.com/content/SH024206600000/listing/crid:~~2F~~2Fvirginmedia.com~~2Fcontent~~2FEPSH024206600000-imi:71a8f8da33255c924dbd2de89192fb686e6f4f11fdc72464c584f278afadb768/location/65535 VMUK TV asset live                                  
+http://preprod-virgintvgo.virginmedia.com/en/watch-tv.html/station/lgilabs-gb-vmlabd-master:9d6891593b6dd14a0ac6ac4d9953bb502c35b8feffeb0beeb78cce9ac87651bb/program/crid://virginmedia.com/content/SH012687730000/listing/crid:~~2F~~2Fvirginmedia.com~~2Fcontent~~2FEP012687730288-imi:67e8d158f3df1e9e1c4c28ed901e2687c2f6872c7f74f1f2fd24c9e5522f2b84/location/65535 VMUK TV asset future   
